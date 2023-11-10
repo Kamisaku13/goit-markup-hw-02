@@ -121,23 +121,23 @@ a {
 .benefits .small-title {
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.4px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .team .small-title {
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.4px;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
     color: #2e2f42;
     text-align: center
 }
 .portfolio .small-title {
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.4px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .benefits .paragraf {
