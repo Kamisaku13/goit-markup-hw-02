@@ -33,11 +33,7 @@ body {
 }
 
 .button-nav:hover {
-    color: var(--OCEAN, #404BBF);
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+    color:#404BBF;
 }
 
 .button-nav:active {
@@ -49,11 +45,7 @@ body {
 }
 
 .button-nav:focus {
-    color: var(--OCEAN, #404BBF);
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+    color: #404BBF;
 }
 
 .contacts {
@@ -66,21 +58,11 @@ body {
 }
 
 .contacts:hover {
-    color: var(--OCEAN, #404BBF);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    font-style: normal;
+    color: #404BBF;
 }
 
 .contacts:focus {
-    color: var(--OCEAN, #404BBF);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    font-style: normal;
+    color: #404BBF;
 }
 
 ul,
@@ -113,20 +95,12 @@ a {
 
 .button:hover {
     background: var(--OCEAN, #404BBF);
-    color: var(--WHITE, #FFF);
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em; 
+    color: var(--WHITE, #FFF); 
 }
 
 .button:focus {
     background: var(--OCEAN, #404BBF);
     color: var(--WHITE, #FFF);
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
 }
 
 .hiding {
